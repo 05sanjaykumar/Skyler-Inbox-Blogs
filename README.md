@@ -7,5 +7,10 @@ This is my first SaaS product, It's a Social media organiser, here Just want to 
 
 ## 20 Aug 2025
 
-<video controls src="Skyler First MVP Demo-1.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/1d67e8e9-0e3b-493c-ba62-7d5224a80b98
+
+
+
 ---
