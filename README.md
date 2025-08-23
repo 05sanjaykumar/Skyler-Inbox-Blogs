@@ -1,4 +1,4 @@
-# Skyer AI Demo
+# Skyer AI Blogs
 
 ## Description
 
@@ -14,3 +14,19 @@ https://github.com/user-attachments/assets/1d67e8e9-0e3b-493c-ba62-7d5224a80b98
 
 
 ---
+
+## 23 Aug 2025
+
+- Made changes from prompt base to manual one for improving accuracy.
+- Regular Version Hallucinates a lot on converting to user prompt to json
+- Solution made to get form, and use AI filter for semantics, and emotion alone
+
+### Previous one
+
+![alt text](image-1.png)
+
+### Current version
+
+![alt text](image-2.png)
+
+--
