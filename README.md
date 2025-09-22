@@ -5,7 +5,27 @@
 This is my first SaaS product, It's a Social media organiser, here Just want to keep saving and documenting my over here. Started this product on July 30th. 
 
 ---
+## 22 Sep 2025
 
+I though changing the plan a bit, yes I have uploaded video and working demo too with architecture, you can check over here: https://github.com/05sanjaykumar/Skyler-Inbox-Demo
+
+I felt dissatisfied on doing this one, there is a major problem with this one
+
+### Problems
+
+- Refresh Token Errors with gmail problem
+- Cloud application and Security(CASA) problem costing nearly upto $540-$720 for tier 2 verification, if it's tier 3 it would cost nearly $4500-$6000 with TAC labs, we have no control over this one, some have like cost nearly upto $15000-75000, we can't avoid cost or we can't control this.
+- I couldn't verify properly and getting passed without paying this heavy amount, only upto 100 users I could actually add.
+- I felt like quality is not satisfying, very less feature, gmail rate limit, etc.
+- There are lot of problems going to happen as we integrate more and more api actually, it's not going to work, everything goes under legal issues where we have no control.
+
+### Solution
+
+We just have to make our stand alone infrastructure/platform that doesn't depend on these things. Control should full be on ours, A better message sharing platform with more AI-filters and organsiation that helps to filter out noise. 
+
+### Plan
+
+No hurry to change right now, use this product to show as credentials and get senior level posts and fund the same start up with major changes again. I am just feeling energtic to work on in this product again with full energy, but yeah I have to stop 😅, network is now first priority to get opportunities, and very import for distrubution, already I failed at distribution. Build network and distribute efficiently 🔥. No effort is waste 💪.  Let's go and continue with our plan.
 
 ## 11 Sep 2025
 
