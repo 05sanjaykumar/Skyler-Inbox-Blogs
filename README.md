@@ -14,7 +14,7 @@ I felt dissatisfied on doing this one, there is a major problem with this one
 ### Problems
 
 - Refresh Token Errors with gmail problem
-- Cloud application and Security(CASA) problem costing nearly upto $540-$720 for tier 2 verification, if it's tier 3 it would cost nearly $4500-$6000 with TAC labs, we have no control over this one, some have like cost nearly upto $15000-75000, we can't avoid cost or we can't control this.
+- Cloud application and Security Assessment (CASA) problem costing nearly upto $540-$720 for tier 2 verification, if it's tier 3 it would cost nearly $4500-$6000 with TAC labs, we have no control over this one, some have like cost nearly upto $15000-75000, we can't avoid cost or we can't control this.
 - I couldn't verify properly and getting passed without paying this heavy amount, only upto 100 users I could actually add.
 - I felt like quality is not satisfying, very less feature, gmail rate limit, etc.
 - There are lot of problems going to happen as we integrate more and more api actually, it's not going to work, everything goes under legal issues where we have no control.
