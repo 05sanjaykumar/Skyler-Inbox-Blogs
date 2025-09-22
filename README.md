@@ -27,12 +27,15 @@ We just have to make our stand alone infrastructure/platform that doesn't depend
 
 No hurry to change right now, use this product to show as credentials and get senior level posts and fund the same start up with major changes again. I am just feeling energtic to work on in this product again with full energy, but yeah I have to stop 😅, network is now first priority to get opportunities, and very import for distrubution, already I failed at distribution. Build network and distribute efficiently 🔥. No effort is waste 💪.  Let's go and continue with our plan.
 
+---
+
 ## 11 Sep 2025
 
 Finally deployed on Hetzner VPS, yes a bit buggy with Oauth and other things, but yes this in an enterprise level software that I made with architecture. Still need to do CI/CD ouath, some sales work and other things remaining of now. I will make a seperate repo on architecture and other things.
 
 <img width="1512" height="804" alt="image" src="https://github.com/user-attachments/assets/3a910071-0497-429f-b10e-161a8794005a" />
 
+---
 
 ## 27 Aug 2025
 
